@@ -10,6 +10,10 @@ public class Test19{
 			result="fail";
 		}
 		System.out.println(result);
+		System.out.println(result);
+		System.out.println(result);
+		System.out.println(result);
+		System.out.println(result);
 	}
 
 }
